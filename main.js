@@ -41,12 +41,12 @@
 //  var c = 1.5;
 
 //a = document.getElementById("demo1").innerHTML = 5 + 6;
-var fullName = 'Lã Văn Thắng'
-a = alert(fullName)
+var fullName = 'Lã Văn Thắng',
+    a = alert(fullName)
 //a = document.write(5 + 6);
 const person = {
     name: "thang",
-    age:22,
+    age: 22,
     fullName: "la van thang",
     eyeColor: "red",
     favoriteTeam: "liverpool",
